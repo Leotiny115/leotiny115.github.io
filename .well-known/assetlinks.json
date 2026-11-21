@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "id.solchat.prototype.devnet",
+      "sha256_cert_fingerprints": [
+        "FE:A9:79:B7:CD:A6:27:E8:D6:CB:C6:D9:A4:CD:29:28:29:4E:15:D1:E0:24:6B:56:71:92:16:31:2A:FC:B9:CD"
+      ]
+    }
+  }
+]
